@@ -30,7 +30,8 @@ I'm a passionate Junior Computer Science student at the University of Surabaya. 
 - [Project 2](link-to-your-project) - None.
 
 Feel free to reach out for collaboration or just to connect!
-
+<br>
+[![](https://visitcount.itsvg.in/api?id=WhoIsLiLY&label=Profile%20Views&color=2&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **WhoIsLiLY/WhoIsLiLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
