@@ -3,12 +3,14 @@
 I'm a passionate Junior Computer Science student at the University of Surabaya. With a strong interest in innovation and technology, I continuously explore new tools and frameworks, seeking opportunities to enhance my skills and contribute to impactful projects.
 
 ## 🌐 Connect with Me
-- [LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url)
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/willy-himawan/))
 
 ## 💻 Tech Stack
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+| Language      | Proficiency   |
+|---------------|---------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)  |  **85%** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) | **75%** |
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) 
@@ -18,7 +20,7 @@ I'm a passionate Junior Computer Science student at the University of Surabaya. 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 ## 📊 GitHub Statistics
-![Willy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)
+![Willy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoislily&show_icons=true&theme=dark&count_private=true)
 
 ## 🏆 Achievements
 - [List any notable achievements or certifications]
