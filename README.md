@@ -3,7 +3,7 @@
 I'm a passionate Junior Computer Science student at the University of Surabaya. With a strong interest in innovation and technology, I continuously explore new tools and frameworks, seeking opportunities to enhance my skills and contribute to impactful projects.
 
 ## 🌐 Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/willy-himawan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/willy-himawan/)
 
 ## 💻 Tech Stack
 | Description              | Examples                                                                                                                                                                                             |
@@ -15,7 +15,7 @@ I'm a passionate Junior Computer Science student at the University of Surabaya. 
 | Machine Learning         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=ffffff) ![Matplotlib](https://img.shields.io/badge/Matplotlib-1F77B4?style=flat&logo=matplotlib&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=ffffff) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=ffffff) ![Scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=ffffff) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=ffffff) |
 | Version Control System   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff)                 |
 | Android                  | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=ffffff) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=000000) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=ffffff) |
-| Other                    |                                                                                                                                                                                                      |
+| Languages                    |   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=ffffff)                                                                                                                                                                                                   |
 | Productivity             | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff) |
 
 
@@ -23,12 +23,11 @@ I'm a passionate Junior Computer Science student at the University of Surabaya. 
 ![Willy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoislily&show_icons=true&theme=dark&count_private=true)
 
 ## 🏆 Achievements
-- [List any notable achievements or certifications]
-- [You can add your hackathon participation or any relevant awards here]
+- - - - - - - - - - - -
 
 ## 📂 Featured Projects
-- [Project 1](link-to-your-project) - A brief description of what this project does.
-- [Project 2](link-to-your-project) - A brief description of what this project does.
+- [Project 1](link-to-your-project) - None.
+- [Project 2](link-to-your-project) - None.
 
 Feel free to reach out for collaboration or just to connect!
 
