@@ -1,9 +1,10 @@
 # Hello, I'm **Willy Himawan** 👋
 
-I'm a passionate Junior Computer Science student at the University of Surabaya. With a strong interest in innovation and technology, I continuously explore new tools and frameworks, seeking opportunities to enhance my skills and contribute to impactful projects.
+I'm a passionate Junior Computer Science student at the University of Surabaya. With a strong interest in innovation and technology, I continuously explore new tools and frameworks, seeking opportunities to enhance my skills and contribute to impactful projects. See my personal branding at >> https://will-tech.vercel.app
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/willy-himawan/)
+
 
 ## 💻 Tech Stack
 | Description              | Examples                                                                                                                                                                                             |
